@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hello everybody!
+
+I just wanna live and die doing programming!!!
